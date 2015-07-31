@@ -1,0 +1,14 @@
+{
+  "name": "gulp",
+  "version": "0.1.0",
+  "private": "true",
+  "description": "",
+  "authors": [
+    "Fernando Moreira <nandomoreira.me@gmail.com>"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "require-dir": "^0.3.0"
+  }
+}
